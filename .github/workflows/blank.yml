@@ -35,7 +35,6 @@ jobs:
           gaianet init
           gaianet start
           gaianet info
-          sleep 200
           gaianet stop
           gaianet config --domain gaia.domains
           gaianet init
